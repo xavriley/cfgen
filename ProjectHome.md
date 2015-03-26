@@ -1,0 +1,3 @@
+CFGen is a tool that makes it easy to do your Music Theory homework... it'll even do it for you!
+
+CFGen can analyze and compose [species counterpoint](http://en.wikipedia.org/wiki/Counterpoint#Species_counterpoint). It uses state-space search to come up with valid harmonizations. A simple two-staff GUI allows the user to easily create and modify the melodies. CFGen can also play back the melodies, one at a time or together.
